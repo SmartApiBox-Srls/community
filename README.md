@@ -3,7 +3,7 @@
 Welcome to the **official developer community** for [SmartApiBox](https://smartapibox.com) —  
 a place to ask questions, share ideas, report bugs, and connect with other API builders.  
 
-[![Join the Discussion](https://img.shields.io/badge/💬_Join_the_Discussion-blue?style=for-the-badge)](https://github.com/SmartApiBox/community/discussions)
+[![Join the Discussion](https://img.shields.io/badge/💬_Join_the_Discussion-blue?style=for-the-badge)](https://github.com/orgs/SmartApiBox-Srls/discussions)
 
 ---
 
@@ -11,13 +11,13 @@ a place to ask questions, share ideas, report bugs, and connect with other API b
 
 | 💡 Category | 🔗 Link | 💬 Description |
 |--------------|---------|----------------|
-| 📢 **Announcements** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/announcements) | Official updates, release notes, and roadmap news. |
-| 🧩 **Plugin Development** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/plugin-development) | Help and questions about building plugins using the SmartApiBox SDK. |
-| ⚙️ **API Integration Help** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/api-integration-help) | Support for API authentication, keys, rate limits, and credits. |
-| 🐞 **Bug Reports** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/bug-reports) | Report reproducible bugs or unexpected API behavior. |
-| 💡 **Feature Requests** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/feature-requests) | Suggest new APIs, SDK improvements, or platform features. |
-| 💬 **General Discussion** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/general-discussion) | Open space for developer chat and feedback. |
-| 🙌 **Showcase** | [View discussions →](https://github.com/SmartApiBox/community/discussions/categories/showcase) | Share your SmartApiBox plugins or APIs with the community. |
+| 📢 **Announcements** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/announcements) | Official updates, release notes, and roadmap news. |
+| 🧩 **Plugin Development** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/plugin-development) | Help and questions about building plugins using the SmartApiBox SDK. |
+| ⚙️ **API Integration Help** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/api-integration-help) | Support for API authentication, keys, rate limits, and credits. |
+| 🐞 **Bug Reports** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/bug-reports) | Report reproducible bugs or unexpected API behavior. |
+| 💡 **Feature Requests** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/feature-requests) | Suggest new APIs, SDK improvements, or platform features. |
+| 💬 **General Discussion** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/general-discussion) | Open space for developer chat and feedback. |
+| 🙌 **Showcase** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/showcase) | Share your SmartApiBox plugins or APIs with the community. |
 
 ---
 
@@ -41,7 +41,7 @@ Before posting, make sure to:
 Get involved, contribute ideas, and help shape the future of SmartApiBox.  
 Whether you’re a developer, designer, or curious builder — you’re welcome here!
 
-[![Join the Discussion](https://img.shields.io/badge/💬_Join_the_Discussion-blue?style=for-the-badge)](https://github.com/SmartApiBox/community/discussions)
+[![Join the Discussion](https://img.shields.io/badge/💬_Join_the_Discussion-blue?style=for-the-badge)](https://github.com/orgs/SmartApiBox-Srls/discussions)
 
 ---
 
