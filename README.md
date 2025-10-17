@@ -18,6 +18,8 @@ a place to ask questions, share ideas, report bugs, and connect with other API b
 | 💡 **Feature Requests** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/feature-requests) | Suggest new APIs, SDK improvements, or platform features. |
 | 💬 **General Discussion** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/general-discussion) | Open space for developer chat and feedback. |
 | 🙌 **Showcase** | [View discussions →](https://github.com/orgs/SmartApiBox-Srls/discussions/categories/showcase) | Share your SmartApiBox plugins or APIs with the community. |
+| 🧾 **Billing / Private Support** | [Email us →](mailto:support@smartapibox.com) |For private or billing issues, please email  **support@smartapibox.com** |
+
 
 ---
 
